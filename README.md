@@ -1,2 +1,2 @@
 # Git-Fundamentals-Assessment
-test
+Welcome to the Git Fundamentals assessment! Good luck!
